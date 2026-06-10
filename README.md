@@ -4,7 +4,7 @@ A clean, responsive personal portfolio website built with HTML, CSS, and Bootstr
 
 ## 🔗 Live Demo
 
-> Deploy on GitHub Pages and paste your URL here.
+> https://niyasharma25.github.io/portfolio
 
 ---
 
@@ -30,18 +30,6 @@ A clean, responsive personal portfolio website built with HTML, CSS, and Bootstr
 
 ---
 
-## 🚀 Deploying on GitHub Pages
-
-1. Create a new repository on GitHub (e.g. `portfolio`)
-2. Upload `index.html`, `style.css`, and `README.md` to the root
-3. Go to **Settings → Pages**
-4. Under **Source**, select `main` branch → `/ (root)` → click **Save**
-5. Your site will be live at:
-   ```
-   https://niyasharma25.github.io/portfolio
-   ```
-
----
 
 ## ✏️ Customisation
 
